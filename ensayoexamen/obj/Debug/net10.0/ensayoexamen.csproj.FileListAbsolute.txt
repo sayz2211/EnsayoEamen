@@ -1,0 +1,15 @@
+C:\Users\santi\EnsayoEamen\ensayoexamen\bin\Debug\net10.0\ensayoexamen.exe
+C:\Users\santi\EnsayoEamen\ensayoexamen\bin\Debug\net10.0\ensayoexamen.deps.json
+C:\Users\santi\EnsayoEamen\ensayoexamen\bin\Debug\net10.0\ensayoexamen.runtimeconfig.json
+C:\Users\santi\EnsayoEamen\ensayoexamen\bin\Debug\net10.0\ensayoexamen.dll
+C:\Users\santi\EnsayoEamen\ensayoexamen\bin\Debug\net10.0\ensayoexamen.pdb
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\ensayoexamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\ensayoexamen.AssemblyInfoInputs.cache
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\ensayoexamen.AssemblyInfo.cs
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\ensayoexamen.csproj.CoreCompileInputs.cache
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\ensayoexamen.sourcelink.json
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\ensayoexamen.dll
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\refint\ensayoexamen.dll
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\ensayoexamen.pdb
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\ensayoexamen.genruntimeconfig.cache
+C:\Users\santi\EnsayoEamen\ensayoexamen\obj\Debug\net10.0\ref\ensayoexamen.dll
